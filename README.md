@@ -34,6 +34,42 @@ I'm a passionate software developer with a knack for creativity, design, and del
 - [learniz-nodejs](https://github.com/Conquerors-Team/learniz-nodejs)  
   *Node.js-based learning management backend.*
 
+- [HebronWorld-New](https://github.com/Conquerors-Team/Hebronworld-New)  
+  *Laravel and jQuery-based app.*
+
+### 🚀 2024 Projects
+
+- [NAC-React](https://github.com/Conquerors-Team/NAC-React)  
+  *React-based web application for NAC platform.*
+
+- [NAC-Adonisjs](https://github.com/Conquerors-Team/NAC-Adonisjs)  
+  *Adonis.js backend for NAC platform.*
+
+- [Menorah-OES-Node-Adonis-Backend](https://github.com/Conquerors-Team/Menorah-OES-Node-Adonis-Backend)  
+  *Node/Adonis backend services for Menorah OES.*
+
+- [Smart-Taxi-Admin](https://github.com/Conquerors-Team/Smart-Taxi-Admin)  
+  *Admin dashboard for Smart Taxi platform.*
+
+- [Hebronworld-SAAS-Mobile](https://github.com/Conquerors-Team/Hebronworld-SAAS-Mobile)  
+  *Mobile solution for HebronWorld SAAS.*
+
+- [Hebronworld-SAAS-Web](https://github.com/Conquerors-Team/Hebronworld-SAAS-Web)  
+  *Web solution for HebronWorld SAAS.*
+
+- [Zion-Books-2024-](https://github.com/Conquerors-Team/Zion-Books-2024-)  
+  *Platform for Zion Books, 2024 edition.*
+
+- [CrewCraft-Web](https://github.com/Conquerors-Team/CrewCraft-Web)  
+  *Crew management web application.*
+
+- [CtrlPlain-Web](https://github.com/Conquerors-Team/CtrlPlain-Web)  
+  *Control panel and admin dashboard web app.*
+
+- [HebronWorld-DEV](https://github.com/EmmanuelSuhas/HebronWorld-DEV)  
+  *Accepted designs for HebronWorld (private repo, updated Sep 2024).*
+
+
 ## 🏆 Achievements
 
 - Influenced company direction through creative designs & high-quality development
